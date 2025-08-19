@@ -1,5 +1,3 @@
----
-
 # Arduino Projects – Embedded Systems & IoT 🚀
 
 Coleção de projetos em **Sistemas Embarcados e IoT**, explorando programação em **C++ com framework Arduino**, prototipagem e automação com a placa **Arduino MEGA 2560**.
@@ -61,5 +59,3 @@ arduino-projects/
 
 Todos os projetos estão sob a **MIT License**.
 Isso significa que você pode **usar, modificar e compartilhar** livremente, desde que mantenha os créditos ao autor.
-
----
