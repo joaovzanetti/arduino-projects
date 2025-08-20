@@ -1,4 +1,4 @@
-# Arduino Projects – Embedded Systems & IoT 🚀
+# Arduino Projects – Embedded Systems & IoT
 
 Coleção de projetos em **Sistemas Embarcados e IoT**, explorando programação em **C++ com framework Arduino**, prototipagem e automação com a placa **Arduino MEGA 2560**.
 
