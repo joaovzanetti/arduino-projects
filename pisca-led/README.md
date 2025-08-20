@@ -49,8 +49,9 @@ void loop() {
 ```
 pisca-led/
 ├─ piscaLED.ino
-├─ .gitattributes
-└─ README.md
+├─ README.md
+├─ LICENSE
+└─ .gitattributes
 ```
 
 ## 📝 Licença
